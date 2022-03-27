@@ -5,8 +5,8 @@ using namespace std;
 // 4. Implement Default Constructor Implementation
 Item::Item()
 {
-  itemCode = 0 ;
-  unitPrice = 0 ;
+  itemCode=0;
+  unitPrice=0; ;
 }
 // 5. Implement Overloaded Constructor Implementation
 Item::Item(int pitemcode , int punitPrice)
